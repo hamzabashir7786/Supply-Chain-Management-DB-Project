@@ -28,6 +28,6 @@ This is a complete database project for a **Supply Chain Management System** dev
 
 ## 👤 Author
 
-Muhammad Hamza Bashir
+Muhammad Hamza Bashir      
 Riphah International University, Islamabad  
 Semester: Spring 2026
