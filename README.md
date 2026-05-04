@@ -28,6 +28,6 @@ This is a complete database project for a **Supply Chain Management System** dev
 
 ## 👤 Author
 
-Muhammad Hamza Bashir (SAP ID: 66437)  
+Muhammad Hamza Bashir
 Riphah International University, Islamabad  
 Semester: Spring 2026
